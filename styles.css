@@ -49,7 +49,7 @@ span{
 .images{
     width: 65%;
     height:75% ;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 56%; 
 }
